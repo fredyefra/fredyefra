@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<img src="java.svg" />
+<img src="spring.svg" />
+<img src="kotlyn.svg" />
+<img src="python.svg" />
+<img src="mysql.svg" />
+<img src="linux.svg" />
+
 <!--
 **fredyefra/fredyefra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
