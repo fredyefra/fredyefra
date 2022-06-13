@@ -10,6 +10,16 @@
 <img src="linux.svg" />
 </p>
 
+<div>
+    <a href="https://github.com/fredyefra?tab=repositories">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredyefra&layout=compact" width="400" height="200"/>
+    </a>
+    <a href="https://github.com/fredyefra?tab=repositories">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=fredyefra&,issues&show_icons=true" width="400" height="200"/>
+    </a>
+</div>
+
+
 <!--
 **fredyefra/fredyefra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
